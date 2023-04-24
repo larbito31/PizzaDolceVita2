@@ -2,6 +2,7 @@
 
 Pizza Dolce Vita is a restaurant website project that we developed during our studies. It is built using HTML, CSS, JavaScript, and Bootstrap, and integrated with Node.js and Express.js.
 The application is responsive, making it suitable for different screen sizes such as phone, tablet, etc.
+![PizzaDolceVita](PizzaDolceVita.gif "PizzaDolceVita")
 
 # Pages:
 
